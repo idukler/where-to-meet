@@ -5,4 +5,4 @@ You might have heard of When-to-Meet, an app that allows you to enter your time 
 <img width="1570" height="1164" alt="image" src="https://github.com/user-attachments/assets/af4e90a9-4580-472f-8bf7-7944e896d08e" />
 
 
-*Where-to-Meet* uses a graph of the main pick-up/drop-off in LA and the time between based on Uber Data from 2019 Q4. It then employs a minimax search over possible meeting points based on distance heuristics in order to find the best meeting location.
+*Where-to-Meet* uses a graph of the main pick-up/drop-off in LA and the time between based on Uber Data from 2019 Q4. It then employs a minimax search over possible meeting points based on distance heuristics in order to find the best meeting location in terms of distance and time.
